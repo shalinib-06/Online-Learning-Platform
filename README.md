@@ -90,16 +90,46 @@ JWT_SECRET=your_secret_key
 EMAIL_USER=your_email
 
 EMAIL_PASS=your_password
+
+GOOGLE_CLIENT_ID= your_client_id
 ```
 
 ---
 
-## 📸 Screenshots
-![LISHA Academy](./screenshots/home.png)
+## 📸 Project Screenshots
 
+<table>
+<tr>
+<td><img src="screenshots/login.png" width="300"></td>
+<td><img src="screenshots/signup.png" width="300"></td>
+<td><img src="screenshots/forgot-password.png" width="300"></td>
+</tr>
 
+<tr>
+<td><img src="screenshots/home1.png" width="300"></td>
+<td><img src="screenshots/home2.png" width="300"></td>
+<td><img src="screenshots/home3.png" width="300"></td>
+</tr>
 
+<tr>
+<td><img src="screenshots/home4.png" width="300"></td>
+<td><img src="screenshots/home5.png" width="300"></td>
+<td><img src="screenshots/home6.png" width="300"></td>
+</tr>
 
+<tr>
+<td><img src="screenshots/student.png" width="300"></td>
+<td><img src="screenshots/instructor.png" width="300"></td>
+<td><img src="screenshots/admin.png" width="300"></td>
+</tr>
+
+<tr>
+<td><img src="screenshots/dashboard.png" width="300"></td>
+<td><img src="screenshots/message.png" width="300"></td>
+<td></td>
+</tr>
+</table>
+---
 
 ## 📄 License
 
