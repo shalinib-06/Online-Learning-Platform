@@ -6,58 +6,31 @@ An Online Learning Management System (LMS) designed to provide a seamless learni
 ---
 ## 🚀 Features
 
-### 👨‍🎓 Student
-- User Registration & Authentication
-- Browse & Enroll in Courses
-- Watch Video Lectures
-- Access Learning Materials
-- Take Quizzes & Assignments
-- Track Learning Progress
-- Download Certificates
-- Wishlist Courses
-- Real-Time Notifications
-- Messaging & Support System
-
-### 👨‍🏫 Instructor
-- Create & Manage Courses
-- Upload Videos & Resources
-- Create Quizzes & Assignments
-- Conduct Live Classes
-- Track Student Performance
-- Review Quiz Submissions
-- Manage Course Content
-- Send Announcements
-
-### 👨‍💼 Admin
-- User Management
-- Course Approval System
-- Instructor Management
-- Platform Analytics
-- Enrollment Monitoring
-- Reports & Moderation
-- Announcement Management
-- System Configuration
+| 👨‍🎓 Student | 👨‍🏫 Instructor | 👨‍💼 Admin |
+|-------------|---------------|------------|
+| User Registration & Authentication | Create & Manage Courses | User Management |
+| Browse & Enroll in Courses | Upload Videos & Resources | Course Approval System |
+| Watch Video Lectures | Create Quizzes & Assignments | Instructor Management |
+| Access Learning Materials | Conduct Live Classes | Platform Analytics |
+| Take Quizzes & Assignments | Track Student Performance | Enrollment Monitoring |
+| Track Learning Progress | Review Quiz $ Assignment Submissions | Reports & Moderation |
+| Download Certificates | Manage Course Content | Announcement Management |
+| Wishlist Courses | Answer Student Q&A | System Configuration |
+| Post reviews | Course Analytics | User Role Management |
+| Track daily streak and leaderboard | Student Management | Platform Monitoring |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- React.js
-- React Router
-- Axios
-- CSS3
-- Lucide React Icons
+| Frontend | Backend | Database |
+|-----------|----------|----------|
+| React.js | Node.js | MongoDB Atlas |
+| React Router | Express.js | Mongoose ODM |
+| Axios | JWT Authentication |  |
+| CSS3 | bcrypt.js |  |
+| Lucide React Icons | REST APIs | |
 
-### Backend
-- Node.js
-- Express.js
-- JWT Authentication
-- bcrypt.js
-
-### Database
-- MongoDB Atlas
-- Mongoose ODM
 
 ---
 ## 🔐 Authentication
@@ -122,30 +95,10 @@ EMAIL_PASS=your_password
 ---
 
 ## 📸 Screenshots
+![LISHA Academy](./screenshots/home.png)
 
-### Login Page
 
-```text
-LISHA Academy Login
-```
 
-### Student Dashboard
-
-```text
-Track courses, progress, quizzes, and certificates
-```
-
-### Instructor Dashboard
-
-```text
-Manage courses, students, assignments, and quizzes
-```
-
-### Admin Dashboard
-
-```text
-Manage users, courses, reports, and platform analytics
-```
 
 
 ## 📄 License
